@@ -26,7 +26,7 @@ A responsive jewelry e-commerce website built with HTML5 and CSS3. This project 
 - Font Awesome
 
 ## Author
-This project was converted from a PDF design and refactored for portfolio use.
+This project was converted from a PDF design.
 
 ## License
 This project is for educational and portfolio purposes. You may use or modify it as needed.
